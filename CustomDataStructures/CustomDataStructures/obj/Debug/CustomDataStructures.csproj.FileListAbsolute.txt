@@ -1,0 +1,6 @@
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\bin\Debug\CustomDataStructures.exe.config
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\obj\Debug\CustomDataStructures.csprojResolveAssemblyReference.cache
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\bin\Debug\CustomDataStructures.exe
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\bin\Debug\CustomDataStructures.pdb
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\obj\Debug\CustomDataStructures.exe
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructures\obj\Debug\CustomDataStructures.pdb

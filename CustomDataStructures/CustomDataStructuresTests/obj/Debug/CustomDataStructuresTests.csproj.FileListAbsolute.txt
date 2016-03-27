@@ -1,0 +1,8 @@
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\obj\Debug\CustomDataStructuresTests.csprojResolveAssemblyReference.cache
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\bin\Debug\CustomDataStructuresTests.dll
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\bin\Debug\CustomDataStructuresTests.pdb
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\bin\Debug\CustomDataStructures.exe
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\bin\Debug\CustomDataStructures.pdb
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\obj\Debug\CustomDataStructuresTests.dll
+D:\SoftUni\Trash\CustomDataStructures\CustomDataStructuresTests\obj\Debug\CustomDataStructuresTests.pdb
